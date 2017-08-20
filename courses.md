@@ -2,6 +2,8 @@
 
 Free Learn to Code Resources
 
+* [Git It Electron](https://github.com/jlord/git-it-electron)
+
 * _Code Free Startup_(http://go.codefree.co/courses)
     * build stuff without using code
 * _Code4Startups_(https://code4startup.com/)
